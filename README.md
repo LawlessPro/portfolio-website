@@ -1,10 +1,18 @@
 # portfolio-website
-HTML page that utilizes HTML, CSS and JavaScript.
+Portfolio site that utilizes HTML, CSS and JavaScript.
+--
+The purpose of this build is to showcase understanding of HTML, CSS and JS.
+Any additional technologies used will also be listed here.
+Although their use will be avoided to preserve the purpose of this project.
 
->>> Under Initial Construction <<<
+[Under Initial Construction]
 
-Site Features
->Landing page with user interaction required to access.
->Projects
->Resume
->Contact
+Site Will Contain:
+>Landing page with user interaction required to access. [Under Construction]
+
+>Projects [Under Construction]
+
+>Resume [Under Construction]
+
+>Contact [Under Construction]
+
