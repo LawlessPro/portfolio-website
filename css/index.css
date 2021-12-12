@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: #41FF42;
+    font-family: monospace;
+    /* background-color: black; */
+}
+
+.text-input {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: #41FF42;
+    font-family: monospace;
+}
+
+.terminalBox {
+    background-color: black;
+    margin: 10% 5% 5% 5%;
+    border: rgba(250, 250, 249, 0.795);
+    border-width: 25px 5px 5px 5px;
+    border-style: solid;
+    padding: 10px;
+}
